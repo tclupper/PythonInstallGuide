@@ -1,0 +1,19 @@
+{
+    "menu_name": "Miniforge${PY_VER}",
+    "menu_items":
+	[
+        {
+		    "name": "Jupyter Lab (py)",
+            "system": "${ROOT_PREFIX}/python.exe",
+            "scriptarguments": [
+				"${ROOT_PREFIX}\\cwp.py",
+                "${PREFIX}\\envs\\py",
+                "${PREFIX}\\envs\\py\\python.exe",
+                "${PREFIX}\\envs\\py\\Scripts\\jupyter-lab-script.py"],
+            "workdir": "%HOMEPATH%\\Documents",
+            "icon": "${MENU_DIR}/lab.ico",
+            "desktop": false,
+            "quicklaunch": false
+        }
+    ]
+}

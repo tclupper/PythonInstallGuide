@@ -1,0 +1,20 @@
+{
+    "menu_name": "Miniforge${PY_VER}",
+    "menu_items":
+    [
+        {
+            "name": "Miniforge PS Prompt (py)",
+            "system": "%windir%\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "scriptarguments": [
+				"-ExecutionPolicy",
+				"ByPass",
+				"-NoExit",
+				"-Command",
+				"& '${ROOT_PREFIX}\\shell\\condabin\\conda-hook.ps1' ; conda activate '${PREFIX}\\envs\\py' "],
+            "workdir": "%HOMEPATH%\\Documents",
+			"icon": "${MENU_DIR}/console.ico",
+			"desktop": false,
+            "quicklaunch": false
+        }
+    ]
+}

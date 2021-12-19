@@ -1,0 +1,18 @@
+{
+    "menu_name": "Miniforge${PY_VER}",
+    "menu_items":
+    [
+        {
+			"name": "Miniforge CMD Prompt (py)",
+			"system": "%windir%\\system32\\cmd.exe",
+            "scriptarguments": [
+				"/K",
+				"${PREFIX}\\Scripts\\activate.bat",
+				"${PREFIX}\\envs\\py"],
+			"workdir": "%HOMEPATH%\\Documents",
+            "icon": "${MENU_DIR}/Iconleak-Atrous-Console.ico",
+			"desktop": false,
+            "quicklaunch": false
+        }
+    ]
+}
