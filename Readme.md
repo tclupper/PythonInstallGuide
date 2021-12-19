@@ -1,4 +1,4 @@
-# Installation instructions for a Python environment on an MS Windows-based computer
+# Installation instructions for a Python environment on a Microsoft Windows-based computer
 ## Rev 12/19/2021
 <br>
 

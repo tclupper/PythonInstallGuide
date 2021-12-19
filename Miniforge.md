@@ -7,7 +7,7 @@
 
 2) Run the install file and then walk through the default options with key modifications:
 
-`NOTE:  you may get this exception when you try and run it (I did).  I just clicked the "Run anyway" option to contiue.`
+`NOTE:  you may get this exception when you try and run it (I did).  I just clicked the "Run anyway" option to continue.`
 
 ![](/images/MiniforgeInstall_B.png)
 
