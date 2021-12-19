@@ -19,12 +19,11 @@
 
 6) Next, click on the __`New`__ button and add the following path to the list.  Remember to replace your __`username`__ in the path.
 ```
-C:\Users\username\Miniforge3\Scripts
+C:\Users\username\miniforge3\Scripts
 ```
 
 7) Install the Extensions you wish.  I installed the following:
     - Anaconda Extension Pack
-    - Bracket Pair Colorizer
     - Code Spell Checker
     - Dracula Official
     - GItLens - Git Supercharged
