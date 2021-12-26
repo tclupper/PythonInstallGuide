@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 12/19/2021
+## Rev 12/26/2021
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -20,25 +20,25 @@ You will need the following 4 software titles. I recommend installing them in th
 * Office suite
     * [Libre Office (ver 7.2.4)](https://www.libreoffice.org)
 * Sound recorder/editor
-    * [Audacity (ver 3.1.2)](https://www.audacityteam.org)
+    * [Audacity (ver 3.1.3)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.59)](https://www.irfanview.com)
     * [Paint.net (ver 4.3.4)](https://www.getpaint.net)
     * [ImageJ (ver 1.53n)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.1.1)](https://inkscape.org)
-    * [DrawIO Desktop (ver 16.0.0)](https://www.draw.io)
+    * [DrawIO Desktop (ver 16.0.2)](https://www.draw.io)
 * 2D mechanical drawing (Looking for a better option here...)
-    * [LibreCAD (ver 2.2.0-rc2)](https://librecad.org)
+    * [LibreCAD (ver 2.2.0-rc3)](https://librecad.org)
 * 3D mechanical drawing and modeling
     * [OpenSCAD (ver 2021.01)](https://www.openscad.org)
     * [FreeCAD (ver 0.19.3)](https://www.freecadweb.org)
 * 3D printing utilities
-    * [PrusaSlicer (ver 2.3.3)](https://www.prusa3d.com/prusaslicer)
+    * [PrusaSlicer (ver 2.4.0)](https://www.prusa3d.com/prusaslicer)
     * [Cura (ver 4.12.1)](https://ultimaker.com/software/ultimaker-cura)
     * [MeshLab (ver 2021.10)](https://www.meshlab.net)
 * EE specific tools
-    * [KiCAD (ver 5.1.12_1)](https://kicad.org) (Schematic capture and PCB layout)
+    * [KiCAD (ver 6.0.0)](https://kicad.org) (Schematic capture and PCB layout)
     * [LTspice (ver October, 28 2021)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) (Circuit simulation)
-    * [Arduino IDE (ver 1.8.18)](https://www.arduino.cc) (IDE for Arduino control boards)
+    * [Arduino IDE (ver 1.8.19)](https://www.arduino.cc) (IDE for Arduino control boards)
     * [Putty (ver 0.76)](https://www.putty.org) (Communication tool)

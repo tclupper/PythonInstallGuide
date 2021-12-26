@@ -79,10 +79,10 @@ PS C:\Users\username>Set-ExecutionPolicy -Scope CurrentUser Unrestricted
 Now, when you open a Power Shell window, it will come up with (base) environment enabled by default.  Also, when you open a standard CMD window, all you have to do is type `activate` to activate the (base) environment.
 
 ---
-13) Next, we will create the Windows Start menu shortcuts. Download the files in the [__`Menu`__](https://github.com/tclupper/PythonInstallGuide/tree/master/menu) directory of this repository and put them in the following directory:
-__`C:\Users\username\miniforge3\Menu`__. Click on each file and select the view "Raw" option.  Then "Right-Click" and select "Save-as..." or "Save image as..." depending on the file type.
+13) Next, we will create the Windows Start menu shortcuts. Download the files in the [__`Menu`__](https://github.com/tclupper/PythonInstallGuide/tree/master/menu) directory of this repository and put them in the following directory on your computer:
+__`C:\Users\username\miniforge3\Menu`__.  To do this, open the [__`Menu`__](https://github.com/tclupper/PythonInstallGuide/tree/master/menu) directory and then click on each file and select the view "Raw" option.  Then "Right-Click" and select "Save-as..." or "Save image as..." depending on the file type.
 
-![](/images/MenuDirectroy.png)
+![](/images/MenuDirectory_A.png)
 
 14) Next, open up another (base) command window as described in step 4) & 5) and type the following
 ```
@@ -93,7 +93,10 @@ __`C:\Users\username\miniforge3\Menu`__. Click on each file and select the view 
 (base) C:\>menuinst C:\Users\username\miniforge3\Menu\pyPSconsole_shortcut.json
 (base) C:\>menuinst C:\Users\username\miniforge3\Menu\Jupyterlab_shortcut.json
 ```
-This should install/place shortcuts in the Start menu so you can directly open windows with conda environments activated or run JupyterLab directly.  Go look at the Windows Start menu under __`Miniforge3`__.
+
+This should install/place shortcuts in the Start menu so you can directly open windows with conda environments activated or run JupyterLab directly.  Go look at the Windows Start menu under __`Miniforge3`__.  You should see the following:
+
+![](/images/MenuDirectory_B.png)
 
 ---
 
