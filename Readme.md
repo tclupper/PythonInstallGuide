@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 12/26/2021
+## Rev 1/2/2022
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -9,7 +9,7 @@ This is a step-by-step guide to install software on your computer for the develo
 
 You will need the following 4 software titles. I recommend installing them in the following order:
 
-1) [Notepad++ (ver 8.1.9.3)](NotepadPlusPlus.md) (This is the text editor that I use)
+1) [Notepad++ (ver 8.2)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.34.1)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 4.11.0-0)](Miniforge.md)  (Stripped down version of Anaconda)
 4) [VScode (ver 1.63.2)](VScode.md)  (This is the development IDE that I use)
@@ -27,7 +27,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [ImageJ (ver 1.53n)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.1.1)](https://inkscape.org)
-    * [DrawIO Desktop (ver 16.0.2)](https://www.draw.io)
+    * [DrawIO Desktop (ver 16.1.2)](https://www.draw.io)
 * 2D mechanical drawing (Looking for a better option here...)
     * [LibreCAD (ver 2.2.0-rc3)](https://librecad.org)
 * 3D mechanical drawing and modeling
