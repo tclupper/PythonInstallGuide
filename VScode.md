@@ -5,6 +5,13 @@
 
 2) Install VScode with all the default options
 
+![](/images/VScodeInstall_A.png)
+![](/images/VScodeInstall_B.png)
+![](/images/VScodeInstall_C.png)
+![](/images/VScodeInstall_D.png)
+![](/images/VScodeInstall_E.png)
+![](/images/VScodeInstall_F.png)
+
 3) We have to make sure VScode can access the Python scripts located in __`C:\Users\username\miniforge3\Scripts`__.  To do this, go to the Windows search box and type in "environment".  You should see the icon above to edit the environment variables
 
 ![](/images/EnvironmentVariables_A.png)
@@ -22,7 +29,10 @@
 C:\Users\username\miniforge3\Scripts
 ```
 
-7) Install the Extensions you wish.  I installed the following (This changes often):
+7) Install the Extensions you wish.  Click on the "Installed" extensions tab. I installed the following (This changes often):
+
+![](/images/VScodeInstall_G.png)
+
     - Arduino
     - C/C++
     - Code Spell Checker

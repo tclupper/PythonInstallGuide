@@ -10,23 +10,26 @@
 `NOTE:  you may get this exception when you try and run it (I did).  I just clicked the "Run anyway" option to continue.`
 
 ![](/images/MiniforgeInstall_B.png)
-
 ![](/images/MiniforgeInstall_C.png)
+
+Start the process:
+
 ![](/images/MiniforgeInstall_D.png)
 ![](/images/MiniforgeInstall_E.png)
+![](/images/MiniforgeInstall_F.png)
 
 3) In this next step, we are going to change where the software is installed to  `C:\Users\username\Miniforge3`
 
   You are going to click `Browse` and navigate to the `C:\Users` directory.  Then you are going to click on the subdirectriy that is your __`username`__. You should have the following in the text box (where you would just replace your __`username`__ in the entry)
 
-![](/images/MiniforgeInstall_F.png)
 ![](/images/MiniforgeInstall_G.png)
 ![](/images/MiniforgeInstall_H.png)
 ![](/images/MiniforgeInstall_I.png)
+![](/images/MiniforgeInstall_J.png)
 
 4) Now that the software is installed, we need to create a basic Python environment that can run Jupyter Lab and write Python programs.  To do this, you need to open a command prompt where the **base** miniforge environment is enabled.  Go to the Windows Start Programs menu and find the `Miniforge3` section and select the `Miniforge Prompt (miniforge3)`.
 
-![](/images/MiniforgeInstall_J.png)
+![](/images/MiniforgeInstall_K.png)
 
 5) You will get a command window that has the following prompt:
 
@@ -41,7 +44,7 @@
 
 7) I have created a list of packages that I feel are necessary for most engineering type problems in Python and [Jupyter Lab](https://jupyter.org/).  You can modify this is needed.  You are going to want to download this [requirements.txt](https://raw.githubusercontent.com/tclupper/PythonInstallGuide/master/requirements.txt) file into your *Documents* directory.  Just "Right-Click" on the page as select "Save-As..." to download file.
 
-8) Next, open up the (base) window as shown in step 4) and type the following
+8) Next, open up the (base) window as shown in step 4) and type the following (Replacing "username" with your username)
 ```
 (base) C:\Users\username>activate py
 (py) C:\Users\username>cd C:\Users\username\Documents
@@ -80,7 +83,7 @@ Now, when you open a Power Shell window, it will come up with (base) environment
 
 ---
 13) Next, we will create the Windows Start menu shortcuts. Download the files in the [__`Menu`__](https://github.com/tclupper/PythonInstallGuide/tree/master/menu) directory of this repository and put them in the following directory on your computer:
-__`C:\Users\username\miniforge3\Menu`__.  To do this, open the [__`Menu`__](https://github.com/tclupper/PythonInstallGuide/tree/master/menu) directory and then click on each file and select the view "Raw" option.  Then "Right-Click" and select "Save-as..." or "Save image as..." depending on the file type.
+__`C:\Users\username\miniforge3\Menu`__.  To do this, open the [__`Menu`__](https://github.com/tclupper/PythonInstallGuide/tree/master/menu) directory and then click on each file separately and select the view "Raw" option.  Then "Right-Click" and select "Save-as..." or "Save image as..." for each of the files, depending on the file type.
 
 ![](/images/MenuDirectory_A.png)
 
@@ -130,6 +133,10 @@ or, if Chrome is installed in /Program Files/ , then use this
 
 However, if you are going to use `Microsoft Edge`, you would modify the last line to look like this (*__don't forget to remove the hash at the begining__*):
 * c.ServerApp.browser = 'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe --app=%s'
+
+or, if Edge is installed in /Program Files/ , then use this
+* c.ServerApp.browser = 'C:/Program Files/Microsoft/Edge/Application/msedge.exe --app=%s'
+
 
 Or, if you are going to use `Mozilla Firefox`, you would modify the last line to look like this (*__don't forget to remove the hash at the begining__*):
 * c.ServerApp.browser = 'C:/Program Files (x86)/Mozilla Firefox/firefox.exe --app=%s'
