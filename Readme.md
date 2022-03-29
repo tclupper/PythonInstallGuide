@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 3/18/2022
+## Rev 3/28/2022
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -15,19 +15,19 @@ You will need the following 4 software titles. I recommend installing them in th
 4) [VScode (ver 1.65.2)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community (ver 16.11.10)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community (ver 16.11.11)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 7.3.1)](https://www.libreoffice.org)
 * Sound recorder/editor
     * [Audacity (ver 3.1.3)](https://www.audacityteam.org)
 * Image viewing, creating and editing
-    * [IRfanView (ver 4.59)](https://www.irfanview.com)
+    * [IRfanView (ver 4.60)](https://www.irfanview.com)
     * [Paint.net (ver 4.3.10)](https://www.getpaint.net)
-    * [ImageJ (ver 1.53p)](https://imagej.nih.gov/ij/)
+    * [ImageJ (ver 1.53q)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.1.2)](https://inkscape.org)
-    * [DrawIO Desktop (ver 16.5.1)](https://www.draw.io)
+    * [DrawIO Desktop (ver 17.2.4)](https://www.draw.io)
 * 2D mechanical drawing (Looking for a better option here...)
     * [LibreCAD (ver 2.2.0-rc3)](https://librecad.org)
 * 3D mechanical drawing and modeling
@@ -39,6 +39,6 @@ You will need the following 4 software titles. I recommend installing them in th
     * [MeshLab (ver 2022.02)](https://www.meshlab.net)
 * EE specific tools
     * [KiCAD (ver 6.0.4)](https://kicad.org) (Schematic capture and PCB layout)
-    * [LTspice (ver March 2, 2022)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) (Circuit simulation)
+    * [LTspice (ver March 24, 2022)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) (Circuit simulation)
     * [Arduino IDE (ver 1.8.19)](https://www.arduino.cc) (IDE for Arduino control boards)
     * [Putty (ver 0.76)](https://www.putty.org) (Communication tool)
