@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 5/18/2022
+## Rev 5/29/2022
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -15,7 +15,7 @@ You will need the following 4 software titles. I recommend installing them in th
 4) [VScode (ver 1.67.2)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.2.1)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.2.2)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 7.3.3)](https://www.libreoffice.org)
@@ -23,11 +23,11 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Audacity (ver 3.1.3)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.60)](https://www.irfanview.com)
-    * [Paint.net (ver 4.3.10)](https://www.getpaint.net)
-    * [ImageJ (ver 1.53r)](https://imagej.nih.gov/ij/)
+    * [Paint.net (ver 4.3.11)](https://www.getpaint.net)
+    * [ImageJ (ver 1.53s)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.2.0)](https://inkscape.org)
-    * [DrawIO Desktop (ver 18.0.6)](https://www.draw.io)
+    * [DrawIO Desktop (ver 18.1.3)](https://www.draw.io)
 * 2D mechanical drawing (Looking for a better option here...)
     * [LibreCAD (ver 2.2.0-rc3)](https://librecad.org)
 * 3D mechanical drawing and modeling
