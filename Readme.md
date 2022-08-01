@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 7/18/2022
+## Rev 8/1/2022
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -11,14 +11,14 @@ You will need the following 4 software titles. I recommend installing them in th
 
 1) [Notepad++ (ver 8.4.4)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.37.1)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
-3) [Miniforge3 (ver 4.12.0-2)](Miniforge.md)  (Stripped down version of Anaconda)
+3) [Miniforge3 (ver 4.13.0-1)](Miniforge.md)  (Stripped down version of Anaconda)
 4) [VScode (ver 1.69.2)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
 * For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.2.6)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
-    * [Libre Office (ver 7.3.4)](https://www.libreoffice.org)
+    * [Libre Office (ver 7.3.5)](https://www.libreoffice.org)
 * Sound recorder/editor
     * [Audacity (ver 3.1.3)](https://www.audacityteam.org)
 * Image viewing, creating and editing
@@ -35,10 +35,10 @@ You will need the following 4 software titles. I recommend installing them in th
     * [FreeCAD (ver 0.2.0)](https://www.freecadweb.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.4.2)](https://www.prusa3d.com/prusaslicer)
-    * [Cura (ver 5.0.0)](https://ultimaker.com/software/ultimaker-cura)
+    * [Cura (ver 5.1.0)](https://ultimaker.com/software/ultimaker-cura)
     * [MeshLab (ver 2022.02)](https://www.meshlab.net)
 * EE specific tools
-    * [KiCAD (ver 6.0.6)](https://kicad.org) (Schematic capture and PCB layout)
+    * [KiCAD (ver 6.0.7)](https://kicad.org) (Schematic capture and PCB layout)
     * [LTspice (ver July 6, 2022)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) (Circuit simulation)
     * [Arduino IDE (ver 1.8.19)](https://www.arduino.cc/en/software) (IDE for Arduino control boards)
     * [Putty (ver 0.77)](https://www.putty.org) (Communication tool)
