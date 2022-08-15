@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 8/9/2022
+## Rev 8/14/2022
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -10,9 +10,9 @@ This is a step-by-step guide to install software on your computer for the develo
 You will need the following 4 software titles. I recommend installing them in the following order:
 
 1) [Notepad++ (ver 8.4.4)](NotepadPlusPlus.md) (This is the text editor that I use)
-2) [Git (ver 2.37.1)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
+2) [Git (ver 2.37.2.2)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 4.13.0-1)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.70.0)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.70.1)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
 * For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.3.0)](https://visualstudio.microsoft.com/vs/community)
