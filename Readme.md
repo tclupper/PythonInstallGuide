@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 8/28/2022
+## Rev 9/6/2022
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -10,12 +10,12 @@ This is a step-by-step guide to install software on your computer for the develo
 You will need the following 4 software titles. I recommend installing them in the following order:
 
 1) [Notepad++ (ver 8.4.4)](NotepadPlusPlus.md) (This is the text editor that I use)
-2) [Git (ver 2.37.2.2)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
+2) [Git (ver 2.37.3)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 4.14.0-0)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.70.2)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.71.0)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.3.2)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.3.3)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 7.4.0)](https://www.libreoffice.org)
@@ -32,7 +32,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [LibreCAD (ver 2.2.0-rc3)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
     * [OpenSCAD (ver 2021.01)](https://openscad.org/downloads.html)
-    * [FreeCAD (ver 0.2.0)](https://www.freecadweb.org)
+    * [FreeCAD (ver 0.20.1)](https://www.freecadweb.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.4.2)](https://www.prusa3d.com/prusaslicer)
     * [Cura (ver 5.1.0)](https://ultimaker.com/software/ultimaker-cura)
