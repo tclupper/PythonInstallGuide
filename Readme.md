@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 12/15/2022
+## Rev 1/6/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -9,41 +9,41 @@ This is a step-by-step guide to install software on your computer for the develo
 
 You will need the following 4 software titles. I recommend installing them in the following order:
 
-1) [Notepad++ (ver 8.4.7)](NotepadPlusPlus.md) (This is the text editor that I use)
+1) [Notepad++ (ver 8.4.8)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.39.0](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 22.9.0-2)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.74.1)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.74.2)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
 * For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.4.3)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
-    * [Libre Office (ver 7.4.2)](https://www.libreoffice.org)
+    * [Libre Office (ver 7.4.3)](https://www.libreoffice.org)
 * Sound recorder/editor
-    * [Audacity (ver 3.2.2)](https://www.audacityteam.org)
+    * [Audacity (ver 3.2.3)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.62)](https://www.irfanview.com)
     * [Paint.net (ver 4.3.12)](https://www.getpaint.net)
-    * [ImageJ (ver 1.53v)](https://imagej.nih.gov/ij/)
+    * [ImageJ (ver 1.54a)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.2.2)](https://inkscape.org)
-    * [DrawIO Desktop (ver 20.6.2)](https://github.com/jgraph/drawio-desktop/releases)
-* 2D mechanical drawing (Looking for a better option here...)
-    * [LibreCAD (ver 2.2.0-rc4)](https://github.com/LibreCAD/LibreCAD/releases)
+    * [DrawIO Desktop (ver 20.7.4)](https://github.com/jgraph/drawio-desktop/releases)
+* 2D mechanical drawing
+    * [LibreCAD (ver 2.2.0)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
     * [OpenSCAD (ver 2021.01)](https://openscad.org/downloads.html)
-    * [FreeCAD (ver 0.20.1)](https://www.freecadweb.org)
+    * [FreeCAD (ver 0.20.2)](https://www.freecadweb.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.5.0)](https://www.prusa3d.com/prusaslicer)
     * [Cura (ver 5.2.1)](https://ultimaker.com/software/ultimaker-cura)
     * [MeshLab (ver 2022.02)](https://www.meshlab.net/#download)
 * EE specific tools
-    * [KiCAD (ver 6.0.9)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
+    * [KiCAD (ver 6.0.10)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
     * [LTspice (ver 17.0.36.0: Dec 13, 2022)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
     * [Arduino IDE (ver 2.0.3)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.78)](https://www.putty.org) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.1)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp (ver 20221214)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp (ver 20221217)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
 * Utilities
     * [Free 42 (ver 3.0.17)](https://thomasokken.com/free42/) ~HP42S calculator app
