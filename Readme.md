@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 1/6/2023
+## Rev 1/15/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -11,20 +11,20 @@ You will need the following 4 software titles. I recommend installing them in th
 
 1) [Notepad++ (ver 8.4.8)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.39.0](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
-3) [Miniforge3 (ver 22.9.0-2)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.74.2)](VScode.md)  (This is the development IDE that I use)
+3) [Miniforge3 (ver 22.9.0-3)](Miniforge.md)  (Stripped down version of Anaconda)
+4) [VScode (ver 1.74.3)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.4.3)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.4.4)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
-    * [Libre Office (ver 7.4.3)](https://www.libreoffice.org)
+    * [Libre Office (ver 7.4.4)](https://www.libreoffice.org)
 * Sound recorder/editor
     * [Audacity (ver 3.2.3)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.62)](https://www.irfanview.com)
-    * [Paint.net (ver 4.3.12)](https://www.getpaint.net)
-    * [ImageJ (ver 1.54a)](https://imagej.nih.gov/ij/)
+    * [Paint.net (ver 5.0)](https://www.getpaint.net)
+    * [ImageJ (ver 1.54b)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.2.2)](https://inkscape.org)
     * [DrawIO Desktop (ver 20.7.4)](https://github.com/jgraph/drawio-desktop/releases)
@@ -43,7 +43,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Arduino IDE (ver 2.0.3)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.78)](https://www.putty.org) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.1)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp (ver 20221217)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp (ver 20230115)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
 * Utilities
     * [Free 42 (ver 3.0.17)](https://thomasokken.com/free42/) ~HP42S calculator app
