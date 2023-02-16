@@ -10,7 +10,5 @@
 ![](/images/NotepadPlusPlusInstall_C.png)
 ![](/images/NotepadPlusPlusInstall_D.png)
 ![](/images/NotepadPlusPlusInstall_E.png)
-![](/images/NotepadPlusPlusInstall_F.png)
-![](/images/NotepadPlusPlusInstall_G.png)
 
 3) Next, you want to install [Git](Git.md)

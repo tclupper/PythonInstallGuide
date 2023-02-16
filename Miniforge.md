@@ -36,6 +36,10 @@ Start the process:
 ```
 (base) C:\Users\username>
 ```
+You might want to update the base environment, type this:
+```
+(base) C:\Users\username>conda update --all
+```
 
 6) Next, type in the following to create a basic Python environment that I am going to call "py".  You can use a different name than "py" if you wish.  (Type "Y" to complete the process)
 ```
@@ -193,7 +197,7 @@ To list the availble environments, type this:
 
 To delete an environment, type this:
 ```
-(pyprog) C:\Users\username>conda env remove -n pyprog
+(base) C:\Users\username>conda env remove -n pyprog
 ```
 Then, remember to delete the folder:
 * C:\Users\username\miniconda\envs\pyprog

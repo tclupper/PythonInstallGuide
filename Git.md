@@ -58,9 +58,13 @@ C:\Users\username>git config --global user.email johndoe@example.com
 ```
 C:\Users\username>git config --list
 ```
-10) Just to be sure, let's make sure there are no __`.condarc`__ files in your __`C:\Users\username`__ directory.  Use the Windows File Explorer to delete them if they exist.
+10) The following lists the version of Git.
+```
+C:\Users\username>git --version
+```
+11) Just to be sure, let's make sure there are no __`.condarc`__ files in your __`C:\Users\username`__ directory.  Use the Windows File Explorer to delete them if they exist.
 
-11) Next, you want to install [Miniforge](Miniforge.md)
+12) Next, you want to install [Miniforge](Miniforge.md)
 ---
 <br>
 
