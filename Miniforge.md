@@ -36,6 +36,8 @@ Start the process:
 ```
 (base) C:\Users\username>
 ```
+`IMPORTANT: If a command window does not "pop-up", there may have been a previous uninstall issue.  Try the "Extra steps" at the end of the Git install section first!`
+
 You might want to update the base environment, type this:
 ```
 (base) C:\Users\username>conda update --all

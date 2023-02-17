@@ -40,12 +40,16 @@ C:\Users\username\miniforge3\Scripts
     - Dracula Official
     - Git Graph
     - GitLens - Git Supercharged
-    - Jupyter
+    - IntelliCode
+    - IntelliCode API Usage Examples
+    - Jupyter (and the rest that get installed with it)
     - Live Sass Compiler
     - Live Server
+    - Python (and Pylance gets installed with it)
+    - Serial Monitor
+    - SQL Bindings
     - SQL Database Projects
     - SQL Server (mssql)
-    - Visual Studio Intellicode
     - vscode-pdf
     - YAML
 
