@@ -79,21 +79,39 @@ At this point, you have a basic Python enviroment that you can use to write prog
 
 11) Type in the following commands.  Make sure to type "Y" when needed.  When, finished, close that window.
 ```
-PS C:\Users\username>Set-ExecutionPolicy -Scope CurrentUser Unrestricted
+PS C:\Users\username>Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 ```
 12) Now, open back up a command window as shown in step 4) & 5) and type the following.
 ```
 (base) C:\Users\username>conda init cmd.exe powershell
 ```
+
+13) We have to make sure the system can access conda and Python located in __`C:\Users\username\miniforge3\condabin`__.  To do this, go to the Windows search box and type in "environment".  You should see the icon above to edit the environment variables
+
+![](/images/EnvironmentVariables_A.png)
+
+14) After you click on this, it will bring up the __`System Properties`__ window.  Click on the __`Environment Variables`__ button.
+
+![](/images/EnvironmentVariables_B.png)
+
+15) Next, select the __`Path`__ variable in the __`User Variables`__ section.  Then, and click on __`Edit`__
+
+![](/images/EnvironmentVariables_C.png)
+
+16) Next, click on the __`New`__ button and add the following path to the list.  Remember to replace your __`username`__ in the path.
+```
+C:\Users\username\miniforge3\condabin
+```
+
 Now, when you open a Power Shell window, it will come up with (base) environment enabled by default.  Also, when you open a standard CMD window, all you have to do is type `activate` to activate the (base) environment.
 
 ---
-13) Next, we will create the Windows Start menu shortcuts. Download the files in the [__`Menu`__](https://github.com/tclupper/PythonInstallGuide/tree/master/menu) directory of this repository and put them in the following directory on your computer:
+17) Next, we will create the Windows Start menu shortcuts. Download the files in the [__`Menu`__](https://github.com/tclupper/PythonInstallGuide/tree/master/menu) directory of this repository and put them in the following directory on your computer:
 __`C:\Users\username\miniforge3\Menu`__.  To do this, open the [__`Menu`__](https://github.com/tclupper/PythonInstallGuide/tree/master/menu) directory and then click on each file separately and select the view "Raw" option.  Then "Right-Click" and select "Save-as..." or "Save image as..." for each of the files, depending on the file type.
 
 ![](/images/MenuDirectory_A.png)
 
-14) Next, open up another (base) command window as described in step 4) & 5) and type the following
+18) Next, open up another (base) command window as described in step 4) & 5) and type the following
 ```
 (base) C:\Users\username>cd C:\
 (base) C:\>menuinst C:\Users\username\miniforge3\Menu\baseCMDconsole_shortcut.json
@@ -111,7 +129,7 @@ This should install/place shortcuts in the Start menu so you can directly open w
 
 The final setp is to make sure Jupyter Lab opens in a [" Desktop application-like"](http://christopherroach.com/articles/jupyterlab-desktop-app/) environment, as well as allowing you to open notebooks from directories that start at the root, or C:\\.
 
-15) Using the new menus that we just created, open an `Miniforge CMD Prompt (py)` window and Type the following commands.
+19) Using the new menus that we just created, open an `Miniforge CMD Prompt (py)` window and Type the following commands.
 
 ```
 (py) C:\Users\username\Documents>jupyter lab --generate-config
@@ -158,7 +176,7 @@ Modify this line (In order to start Jupyter Lab at C:\\). (*__Also, don't forget
 * c.ServerApp.root_dir = 'C:\\\\'
 ---
 
-12) Next, you want to install [VScode](VScode.md)
+20) Next, you want to install [VScode](VScode.md)
 
 ---
 ---

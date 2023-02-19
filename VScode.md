@@ -12,24 +12,7 @@
 ![](/images/VScodeInstall_E.png)
 ![](/images/VScodeInstall_F.png)
 
-3) We have to make sure VScode can access the Python scripts located in __`C:\Users\username\miniforge3\Scripts`__.  To do this, go to the Windows search box and type in "environment".  You should see the icon above to edit the environment variables
-
-![](/images/EnvironmentVariables_A.png)
-
-4) After you click on this, it will bring up the __`System Properties`__ window.  Click on the __`Environment Variables`__ button.
-
-![](/images/EnvironmentVariables_B.png)
-
-5) Next, select the __`Path`__ variable in the __`User Variables`__ section.  Then, and click on __`Edit`__
-
-![](/images/EnvironmentVariables_C.png)
-
-6) Next, click on the __`New`__ button and add the following path to the list.  Remember to replace your __`username`__ in the path.
-```
-C:\Users\username\miniforge3\Scripts
-```
-
-7) Install the Extensions you wish.  Click on the "Installed" extensions tab. I installed the following (This changes often):
+3) Install the Extensions you wish.  Click on the "Installed" extensions tab. I installed the following (This changes often):
 
 ![](/images/VScodeInstall_G.png)
 
@@ -45,6 +28,7 @@ C:\Users\username\miniforge3\Scripts
     - Jupyter (and the rest that get installed with it)
     - Live Sass Compiler
     - Live Server
+    - markdownlint
     - Python (and Pylance gets installed with it)
     - Serial Monitor
     - SQL Bindings
