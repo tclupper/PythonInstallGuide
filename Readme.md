@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 2/18/2023
+## Rev 2/27/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -15,7 +15,7 @@ You will need the following 4 software titles. I recommend installing them in th
 4) [VScode (ver 1.75.1)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.4.5)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.5.0)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 7.5.0.3)](https://www.libreoffice.org)
@@ -23,7 +23,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Audacity (ver 3.2.4)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.62)](https://www.irfanview.com)
-    * [Paint.net (ver 5.01)](https://www.getpaint.net)
+    * [Paint.net (ver 5.02)](https://www.getpaint.net)
     * [ImageJ (ver 1.54b)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.2.2)](https://inkscape.org)
@@ -39,11 +39,11 @@ You will need the following 4 software titles. I recommend installing them in th
     * [MeshLab (ver 2022.02)](https://www.meshlab.net/#download)
 * EE specific tools
     * [KiCAD (ver 7.0.0)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
-    * [LTspice (ver 17.0.36.0: Dec 13, 2022)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
-    * [Arduino IDE (ver 2.0.3)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
+    * [LTspice (ver 17.1.6)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
+    * [Arduino IDE (ver 2.0.4)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.78)](https://www.putty.org) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.1)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20230211)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20230224)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 2.6.2)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
