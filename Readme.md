@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 2/27/2023
+## Rev 2/28/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -15,7 +15,7 @@ You will need the following 4 software titles. I recommend installing them in th
 4) [VScode (ver 1.75.1)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.5.0)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.5.1)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 7.5.0.3)](https://www.libreoffice.org)
