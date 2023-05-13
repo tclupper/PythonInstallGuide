@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 5/7/2023
+## Rev 5/13/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -12,7 +12,7 @@ You will need the following 4 software titles. I recommend installing them in th
 1) [Notepad++ (ver 8.5.2)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.40.1](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 23.1.0-1)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.78.0)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.78.2)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
 * For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.5.5)](https://visualstudio.microsoft.com/vs/community)
@@ -42,8 +42,8 @@ You will need the following 4 software titles. I recommend installing them in th
     * [LTspice (ver 17.1.8.0)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
     * [Arduino IDE (ver 2.1.0)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.78)](https://www.putty.org) ~Communication tool
-    * [EZNEC Pro/2+ (ver 7.0.1)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20230507)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [EZNEC Pro/2+ (ver 7.0.2)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
+    * [Chirp-next (ver 20230510)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 2.7.0)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
