@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 5/18/2023
+## Rev 5/25/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -15,7 +15,7 @@ You will need the following 4 software titles. I recommend installing them in th
 4) [VScode (ver 1.78.2)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.6.0)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.6.1)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 7.5.3)](https://www.libreoffice.org)
@@ -23,7 +23,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Audacity (ver 3.3.2)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.62)](https://www.irfanview.com)
-    * [Paint.net (ver 5.03)](https://www.getpaint.net)
+    * [Paint.net (ver 5.05)](https://www.getpaint.net)
     * [ImageJ (ver 1.54d)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.2.2)](https://inkscape.org)
