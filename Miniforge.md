@@ -38,9 +38,10 @@ Start the process:
 ```
 `IMPORTANT: If a command window does not "pop-up", there may have been a previous uninstall issue.  Try the "Extra steps" at the end of the Git install section first!`
 
-You might want to update the base environment, type this:
+You will have to install mamba in order to update the base and subsequent environments. I experienced serious problems using conda ver 23.5.0 to update the base environment (It wanted to un-install brotlipy package which created real problems).  Using mamba to update the environments seems to have fixed the problem (It also kept conda at ver 23.3.1).  Just use mamba to update environments and conda for everything else.  To do this, type this:
 ```
-(base) C:\Users\username>conda update --all
+(base) C:\Users\username>conda install mamba
+(base) C:\Users\username>mamba update --all
 ```
 
 6) Next, type in the following to create a basic Python environment that I am going to call "py".  You can use a different name than "py" if you wish.  (Type "Y" to complete the process)
@@ -188,9 +189,9 @@ If you want to list general information about an environment, type this:
 (py) C:\Users\username>conda info
 ```
 
-If you want to update an enviroment, type this:
+If you want to update any enviroment, type this:
 ```
-(py) C:\Users\username>conda update --all
+(py) C:\Users\username>mamba update --all
 ```
 
 If you want to list what packages are in an enviroment, type this:
