@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 5/30/2023
+## Rev 6/6/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -24,7 +24,7 @@ You will need the following 4 software titles. I recommend installing them in th
 * Image viewing, creating and editing
     * [IRfanView (ver 4.62)](https://www.irfanview.com)
     * [Paint.net (ver 5.06)](https://www.getpaint.net)
-    * [ImageJ (ver 1.54d)](https://imagej.nih.gov/ij/)
+    * [ImageJ (ver 1.54e)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.2.2)](https://inkscape.org)
     * [DrawIO Desktop (ver 21.2.8)](https://github.com/jgraph/drawio-desktop/releases)
@@ -43,7 +43,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Arduino IDE (ver 2.1.0)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.78)](https://www.putty.org) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.2)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20230515)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20230606)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 2.7.0)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
