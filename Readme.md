@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 7/7/2023
+## Rev 7/11/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -15,7 +15,7 @@ You will need the following 4 software titles. I recommend installing them in th
 4) [VScode (ver 1.80.0)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.6.4)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.6.5)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 7.5.4)](https://www.libreoffice.org)
@@ -29,7 +29,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Inkscape (ver 1.2.2)](https://inkscape.org)
     * [DrawIO Desktop (ver 21.6.1)](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
-    * [LibreCAD (ver 2.2.0)](https://github.com/LibreCAD/LibreCAD/releases)
+    * [LibreCAD (ver 2.2.0.1)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
     * [OpenSCAD (ver 2021.01)](https://openscad.org/downloads.html)
     * [FreeCAD (ver 0.20.2)](https://www.freecadweb.org)
