@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 8/14/2023
+## Rev 8/15/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -15,7 +15,7 @@ You will need the following 4 software titles. I recommend installing them in th
 4) [VScode (ver 1.81.1)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.7.0)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.7.1)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 7.5.5)](https://www.libreoffice.org)
@@ -38,7 +38,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Cura (ver 5.4.0)](https://ultimaker.com/software/ultimaker-cura)
     * [MeshLab (ver 2022.02)](https://www.meshlab.net/#download)
 * EE specific tools
-    * [KiCAD (ver 7.0.6)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
+    * [KiCAD (ver 7.0.7)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
     * [LTspice (ver 17.1.10)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
     * [Arduino IDE (ver 2.1.1)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.78)](https://www.putty.org) ~Communication tool
