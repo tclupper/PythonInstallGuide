@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 9/29/2023
+## Rev 10/06/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -12,7 +12,7 @@ You will need the following 4 software titles. I recommend installing them in th
 1) [Notepad++ (ver 8.5.7)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.42.0](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 23.3.1-1)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.82.2)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.83.0)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
 * For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.7.4)](https://visualstudio.microsoft.com/vs/community)
@@ -23,11 +23,11 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Audacity (ver 3.3.3)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.62)](https://www.irfanview.com)
-    * [Paint.net (ver 5.09)](https://www.getpaint.net)
+    * [Paint.net (ver 5.10)](https://www.getpaint.net)
     * [ImageJ (ver 1.54f)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.3.0)](https://inkscape.org)
-    * [DrawIO Desktop (ver 22.0.0)](https://github.com/jgraph/drawio-desktop/releases)
+    * [DrawIO Desktop (ver 22.0.2)](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.0.2)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
@@ -38,12 +38,12 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Cura (ver 5.4.0)](https://ultimaker.com/software/ultimaker-cura)
     * [MeshLab (ver 2022.02)](https://www.meshlab.net/#download)
 * EE specific tools
-    * [KiCAD (ver 7.0.7)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
-    * [LTspice (ver 17.1.14)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
+    * [KiCAD (ver 7.0.8)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
+    * [LTspice (ver 17.1.15)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
     * [Arduino IDE (ver 2.2.1)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.79)](https://www.putty.org) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.2)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20230928)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20231003)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 2.8.0)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
