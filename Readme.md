@@ -1,5 +1,5 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
-## Rev 10/06/2023
+## Rev 10/07/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -23,7 +23,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Audacity (ver 3.3.3)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.62)](https://www.irfanview.com)
-    * [Paint.net (ver 5.10)](https://www.getpaint.net)
+    * [Paint.net (ver 5.0.10)](https://www.getpaint.net)
     * [ImageJ (ver 1.54f)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.3.0)](https://inkscape.org)
