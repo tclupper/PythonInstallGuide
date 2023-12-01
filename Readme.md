@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 11/27/2023
+## Rev 12/1/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -16,7 +16,7 @@ You will need the following 4 software titles. I recommend installing them in th
 4) [VScode (ver 1.84.2)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.8.1)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.8.2)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 7.6.3)](https://www.libreoffice.org)
@@ -27,7 +27,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Paint.net (ver 5.0.11)](https://www.getpaint.net)
     * [ImageJ (ver 1.54g)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
-    * [Inkscape (ver 1.3.1)](https://inkscape.org)
+    * [Inkscape (ver 1.3.2)](https://inkscape.org)
     * [DrawIO Desktop (ver 22.1.2)](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.0.2)](https://github.com/LibreCAD/LibreCAD/releases)
@@ -36,7 +36,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [FreeCAD (ver 0.21.1)](https://www.freecadweb.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.7.0)](https://www.prusa3d.com/prusaslicer)
-    * [Cura (ver 5.5.0)](https://ultimaker.com/software/ultimaker-cura)
+    * [Cura (ver 5.6.0)](https://ultimaker.com/software/ultimaker-cura)
     * [MeshLab (ver 2022.02)](https://www.meshlab.net/#download)
 * EE specific tools
     * [KiCAD (ver 7.0.9)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
@@ -44,10 +44,10 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Arduino IDE (ver 2.2.1)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.79)](https://www.putty.org) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.2)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20231125)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20231129)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 2.8.1)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
-    * [Free 42 (ver 3.1)](https://thomasokken.com/free42/) ~HP42S calculator app
+    * [Free 42 (ver 3.1.2)](https://thomasokken.com/free42/) ~HP42S calculator app
     * [Convert (ver 4.1.0)](https://joshmadison.com/convert-for-windows/) ~Unit conversion app
     * [7-Zip (Ver 23.01)](https://www.7-zip.org/) ~File Compression
