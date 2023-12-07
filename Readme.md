@@ -13,7 +13,7 @@ You will need the following 4 software titles. I recommend installing them in th
 1) [Notepad++ (ver 8.6)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.43.0](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 23.3.1-1)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.84.2)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.85.0)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
 * For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.8.3)](https://visualstudio.microsoft.com/vs/community)
