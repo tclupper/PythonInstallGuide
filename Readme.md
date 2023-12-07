@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 12/5/2023
+## Rev 12/7/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -19,7 +19,7 @@ You will need the following 4 software titles. I recommend installing them in th
 * For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.8.3)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
-    * [Libre Office (ver 7.6.3)](https://www.libreoffice.org)
+    * [Libre Office (ver 7.6.4)](https://www.libreoffice.org)
 * Sound recorder/editor
     * [Audacity (ver 3.4.2)](https://www.audacityteam.org)
 * Image viewing, creating and editing
@@ -44,7 +44,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Arduino IDE (ver 2.2.1)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.79)](https://www.putty.org) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.2)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20231204)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20231207)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 2.8.1)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
