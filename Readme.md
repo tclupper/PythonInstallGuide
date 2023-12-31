@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 12/21/2023
+## Rev 12/31/2023
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -20,6 +20,8 @@ You will need the following 4 software titles. I recommend installing them in th
 
 * Office suite
     * [Libre Office (ver 7.6.4)](https://www.libreoffice.org)
+* Latex document editor
+    * [Texworks/MikTex (ver 0.6.8/ver 23.12)](https://miktex.org/download)
 * Sound recorder/editor
     * [Audacity (ver 3.4.2)](https://www.audacityteam.org)
 * Image viewing, creating and editing
@@ -28,7 +30,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [ImageJ (ver 1.54h)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.3.2)](https://inkscape.org)
-    * [DrawIO Desktop (ver 22.1.11)](https://github.com/jgraph/drawio-desktop/releases)
+    * [DrawIO Desktop (ver 22.1.16)](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.0.2)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
@@ -39,12 +41,12 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Cura (ver 5.6.0)](https://ultimaker.com/software/ultimaker-cura)
     * [MeshLab (ver 2023.12)](https://www.meshlab.net/#download)
 * EE specific tools
-    * [KiCAD (ver 7.0.9)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
+    * [KiCAD (ver 7.0.10)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
     * [LTspice (ver 17.1.15)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
     * [Arduino IDE (ver 2.2.1)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.80)](https://www.putty.org) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.2)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20231220)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20231223)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 2.8.1)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
