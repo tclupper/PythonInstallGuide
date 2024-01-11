@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 12/31/2023
+## Rev 1/10/2024
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -10,13 +10,13 @@ This is a step-by-step guide to install software on your computer for the develo
 
 You will need the following 4 software titles. I recommend installing them in the following order:
 
-1) [Notepad++ (ver 8.6)](NotepadPlusPlus.md) (This is the text editor that I use)
+1) [Notepad++ (ver 8.6.1)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.43.0](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 23.3.1-1)](Miniforge.md)  (Stripped down version of Anaconda)
 4) [VScode (ver 1.85.1)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.8.3)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.8.4)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 7.6.4)](https://www.libreoffice.org)
@@ -30,7 +30,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [ImageJ (ver 1.54h)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.3.2)](https://inkscape.org)
-    * [DrawIO Desktop (ver 22.1.16)](https://github.com/jgraph/drawio-desktop/releases)
+    * [DrawIO Desktop (ver 22.1.18)](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.0.2)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
