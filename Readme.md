@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 2/22/2024
+## Rev 2/28/2024
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -11,12 +11,12 @@ This is a step-by-step guide to install software on your computer for the develo
 You will need the following 4 software titles. I recommend installing them in the following order:
 
 1) [Notepad++ (ver 8.6.4)](NotepadPlusPlus.md) (This is the text editor that I use)
-2) [Git (ver 2.43.0](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
+2) [Git (ver 2.44.0](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 23.11.0-0)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.86.2)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.87.0)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.9.1)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.9.2)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 24.2.0)](https://www.libreoffice.org)
@@ -41,7 +41,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [Cura (ver 5.6.0)](https://ultimaker.com/software/ultimaker-cura)
     * [MeshLab (ver 2023.12)](https://www.meshlab.net/#download)
 * EE specific tools
-    * [KiCAD (ver 7.0.11)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
+    * [KiCAD (ver 8.0.0)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
     * [LTspice (ver 24.0.9)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
     * [Arduino IDE (ver 2.3.2)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.80)](https://www.putty.org) ~Communication tool
@@ -51,5 +51,5 @@ You will need the following 4 software titles. I recommend installing them in th
     * [METAS VNA tools (ver 2.8.1)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
     * [Free 42 (ver 3.1.4)](https://thomasokken.com/free42/) ~HP42S calculator app
-    * [Convert (ver 4.1.0)](https://joshmadison.com/convert-for-windows/) ~Unit conversion app
+    * [Convert (ver 4.1.0e)](https://joshmadison.com/convert-for-windows/) ~Unit conversion app
     * [7-Zip (Ver 23.01)](https://www.7-zip.org/) ~File Compression
