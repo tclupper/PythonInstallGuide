@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 5/16/2024
+## Rev 5/27/2024
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -16,7 +16,7 @@ You will need the following 4 software titles. I recommend installing them in th
 4) [VScode (ver 1.89.1)](VScode.md)  (This is the development IDE that I use)
 ---
 ## Just as an FYI, Here is a list of other free software that I use
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.9.7)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.10.0)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
     * [Libre Office (ver 24.2.3)](https://www.libreoffice.org)
@@ -30,7 +30,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [ImageJ (ver 1.54i)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.3.2)](https://inkscape.org)
-    * [DrawIO Desktop (ver 24.4.0)](https://github.com/jgraph/drawio-desktop/releases)
+    * [DrawIO Desktop (ver 24.4.8)](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.0.2)](https://github.com/LibreCAD/LibreCAD/releases)  (Not sure about this one, I may just switch to FreeCad for everything)
 * 3D mechanical drawing and modeling
@@ -52,4 +52,4 @@ You will need the following 4 software titles. I recommend installing them in th
 * Utilities
     * [Free 42 (ver 3.1.8)](https://thomasokken.com/free42/) ~HP42S calculator app
     * [Convert (ver 4.1.0e)](https://joshmadison.com/convert-for-windows/) ~Unit conversion app
-    * [7-Zip (Ver 24.05)](https://www.7-zip.org/) ~File Compression
+    * [7-Zip (Ver 24.06)](https://www.7-zip.org/) ~File Compression
