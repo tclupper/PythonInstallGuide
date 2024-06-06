@@ -30,7 +30,7 @@ You will need the following 4 software titles. I recommend installing them in th
     * [ImageJ (ver 1.54i)](https://imagej.nih.gov/ij/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.3.2)](https://inkscape.org)
-    * [DrawIO Desktop (ver 24.4.8)](https://github.com/jgraph/drawio-desktop/releases)
+    * [DrawIO Desktop (ver 24.4.13)](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.0.2)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
