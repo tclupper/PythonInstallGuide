@@ -24,12 +24,15 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (found in MiniForge).  
     * [Libre Office (ver 24.2.4)](https://www.libreoffice.org)
 * Latex document editor
     * [Texworks/MikTex (ver 0.6.8/ver 24.1)](https://miktex.org/download)
+* Reference material manager
+    * [Zotero (ver 6.0.36)](https://www.zotero.org/download/)
 * Sound recorder/editor
     * [Audacity (ver 3.5.1)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.67)](https://www.irfanview.com)
     * [Paint.net (ver 5.0.13)](https://www.getpaint.net)
     * [ImageJ (ver 1.54i)](https://imagej.net/)
+    * [DigiCamControl (ver 2.1.6)](https://www.digicamcontrol.com/download)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.3.2)](https://inkscape.org)
     * [DrawIO Desktop (ver 24.5.1)](https://github.com/jgraph/drawio-desktop/releases)
