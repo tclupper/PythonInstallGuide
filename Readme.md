@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 6/6/2024
+## Rev 6/10/2024
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -14,7 +14,9 @@ You will need the following 4 software titles. I recommend installing them in th
 2) [Git (ver 2.45.2](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 24.3.0-0)](Miniforge.md)  (Stripped down version of Anaconda)
 4) [VScode (ver 1.90.0)](VScode.md)  (This is the development IDE that I use)
----
+
+NOTE: Jupyter notebooks are best edited using JupyterLab (found in MiniForge).  However, you can also use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
+
 ## Just as an FYI, Here is a list of other free software that I recommend
 * For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.10.1)](https://visualstudio.microsoft.com/vs/community)
 
@@ -27,10 +29,10 @@ You will need the following 4 software titles. I recommend installing them in th
 * Image viewing, creating and editing
     * [IRfanView (ver 4.67)](https://www.irfanview.com)
     * [Paint.net (ver 5.0.13)](https://www.getpaint.net)
-    * [ImageJ (ver 1.54i)](https://imagej.nih.gov/ij/)
+    * [ImageJ (ver 1.54i)](https://imagej.net/)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.3.2)](https://inkscape.org)
-    * [DrawIO Desktop (ver 24.4.13)](https://github.com/jgraph/drawio-desktop/releases)
+    * [DrawIO Desktop (ver 24.5.1)](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.0.2)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
