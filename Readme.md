@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 7/15/2024
+## Rev 7/21/2024
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -28,7 +28,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * Reference material manager
     * [Zotero (ver 6.0.36)](https://www.zotero.org/download/)
 * Sound recorder/editor
-    * [Audacity (ver 3.5.1)](https://www.audacityteam.org)
+    * [Audacity (ver 3.6.0)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.67)](https://www.irfanview.com)
     * [Paint.net (ver 5.0.13)](https://www.getpaint.net)
@@ -46,7 +46,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [PrusaSlicer (ver 2.8.0)](https://www.prusa3d.com/prusaslicer)
     * [MeshLab (ver 2023.12)](https://www.meshlab.net/#download)
 * EE specific tools
-    * [KiCAD (ver 8.0.3)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
+    * [KiCAD (ver 8.0.4)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
     * [LTspice (ver 24.0.12)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
     * [Arduino IDE (ver 2.3.2)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.81)](https://www.putty.org) ~Communication tool
