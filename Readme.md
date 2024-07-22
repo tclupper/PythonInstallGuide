@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 7/21/2024
+## Rev 7/22/2024
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -28,7 +28,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * Reference material manager
     * [Zotero (ver 6.0.36)](https://www.zotero.org/download/)
 * Sound recorder/editor
-    * [Audacity (ver 3.6.0)](https://www.audacityteam.org)
+    * [Audacity (ver 3.6.1)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.67)](https://www.irfanview.com)
     * [Paint.net (ver 5.0.13)](https://www.getpaint.net)
