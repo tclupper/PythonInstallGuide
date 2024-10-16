@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 10/11/2024
+## Rev 10/16/2024
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -35,7 +35,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [ImageJ (ver 1.54k)](https://imagej.net/)
     * [DigiCamControl (ver 2.1.6)](https://www.digicamcontrol.com/download)
 * Vector graphics viewing, creating and editing
-    * [Inkscape (ver 1.3.2)](https://inkscape.org)
+    * [Inkscape (ver 1.4.0)](https://inkscape.org)
     * [DrawIO Desktop (ver 24.7.17](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.0.2)](https://github.com/LibreCAD/LibreCAD/releases)
@@ -46,12 +46,12 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [PrusaSlicer (ver 2.8.1)](https://www.prusa3d.com/prusaslicer)
     * [MeshLab (ver 2023.12)](https://www.meshlab.net/#download)
 * EE specific tools
-    * [KiCAD (ver 8.0.5)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
+    * [KiCAD (ver 8.0.6)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
     * [LTspice (ver 24.0.12)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
     * [Arduino IDE (ver 2.3.3)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.81)](https://www.putty.org) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.3)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20241003)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20241014)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 2.8.2)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
