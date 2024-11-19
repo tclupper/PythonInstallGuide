@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 11/14/2024
+## Rev 11/19/2024
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -12,13 +12,13 @@ You will need the following 4 software titles. I recommend installing them in th
 
 1) [Notepad++ (ver 8.7.1)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.47.0](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
-3) [Miniforge3 (ver 24.9.0-0)](Miniforge.md)  (Stripped down version of Anaconda)
+3) [Miniforge3 (ver 24.9.2-0)](Miniforge.md)  (Stripped down version of Anaconda)
 4) [VScode (ver 1.95.3)](VScode.md)  (This is the development IDE that I use)
 
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
 ## Just as an FYI, Here is a list of other free software that I recommend
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.12.0)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.12.1)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
 
@@ -51,7 +51,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [Arduino IDE (ver 2.3.3)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.81)](https://www.putty.org) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.3)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20241108)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20241115)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 2.8.3)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
