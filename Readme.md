@@ -41,7 +41,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [LibreCAD (ver 2.2.0.2)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
     * [OpenSCAD (ver 2021.01)](https://openscad.org/downloads.html)
-    * [FreeCAD (ver 0.21.2)](https://www.freecadweb.org)
+    * [FreeCAD (ver 1.0.0)](https://www.freecadweb.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.8.1)](https://www.prusa3d.com/prusaslicer)
     * [MeshLab (ver 2023.12)](https://www.meshlab.net/#download)
