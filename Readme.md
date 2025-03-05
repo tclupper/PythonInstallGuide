@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 02/15/2025 
+## Rev 03/04/2025 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -18,27 +18,27 @@ You will need the following 4 software titles. I recommend installing them in th
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
 ## Just as an FYI, Here is a list of other free software that I recommend
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.13.0)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.13.2)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
 
-    * [Libre Office (ver 25.2.0)](https://www.libreoffice.org)
+    * [Libre Office (ver 25.2.1)](https://www.libreoffice.org)
 * Latex document editor
     * [Texworks/MikTex (ver 0.6.8/ver 24.1)](https://miktex.org/download)
 * Reference material manager
-    * [Zotero (ver 7.0.11)](https://www.zotero.org/download/)
+    * [Zotero (ver 7.0.13)](https://www.zotero.org/download/)
 * Sound recorder/editor
     * [Audacity (ver 3.7.1)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.7.0)](https://www.irfanview.com)
     * [Paint.net (ver 5.1.4)](https://www.getpaint.net)
-    * [ImageJ (ver 1.54m)](https://imagej.net/)
+    * [ImageJ (ver 1.54p)](https://imagej.net/)
     * [DigiCamControl (ver 2.1.6)](https://www.digicamcontrol.com/download)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.4.0)](https://inkscape.org)
-    * [DrawIO Desktop (ver 26.0.9)](https://github.com/jgraph/drawio-desktop/releases)
+    * [DrawIO Desktop (ver 26.0.16)](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
-    * [LibreCAD (ver 2.2.1)](https://github.com/LibreCAD/LibreCAD/releases)
+    * [LibreCAD (ver 2.2.1.1)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
     * [OpenSCAD (ver 2021.01)](https://openscad.org/downloads.html)
     * [FreeCAD (ver 1.0.0)](https://www.freecadweb.org)
@@ -46,15 +46,15 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [PrusaSlicer (ver 2.9.0)](https://www.prusa3d.com/prusaslicer)
     * [MeshLab (ver 2023.12)](https://www.meshlab.net/#download)
 * EE specific tools
-    * [KiCAD (ver 8.0.8)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
-    * [LTspice (ver 24.1.1)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
+    * [KiCAD (ver 9.0.0)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
+    * [LTspice (ver 24.1.4)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
     * [Arduino IDE (ver 2.3.4)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.83)](https://www.putty.org) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.4)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20250214)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20250301)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 2.8.3)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
-    * [Free 42 (ver 3.2.2)](https://thomasokken.com/free42/) ~HP42S calculator app
+    * [Free 42 (ver 3.2.5)](https://thomasokken.com/free42/) ~HP42S calculator app
     * [Convert (ver 4.1.0e)](https://joshmadison.com/convert-for-windows/) ~Unit conversion app
     * [7-Zip (Ver 24.09)](https://www.7-zip.org/) ~File Compression
