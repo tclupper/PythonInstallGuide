@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 03/09/2025 
+## Rev 03/11/2025 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -13,12 +13,12 @@ You will need the following 4 software titles. I recommend installing them in th
 1) [Notepad++ (ver 8.7.8)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.48.1](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 24.11.3-0)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.98.0)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.98.1)](VScode.md)  (This is the development IDE that I use)
 
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
 ## Just as an FYI, Here is a list of other free software that I recommend
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.13.2)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.13.3)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
 
@@ -28,10 +28,10 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * Reference material manager
     * [Zotero (ver 7.0.13)](https://www.zotero.org/download/)
 * Sound recorder/editor
-    * [Audacity (ver 3.7.1)](https://www.audacityteam.org)
+    * [Audacity (ver 3.7.2)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.7.0)](https://www.irfanview.com)
-    * [Paint.net (ver 5.1.4)](https://www.getpaint.net)
+    * [Paint.net (ver 5.1.5)](https://www.getpaint.net)
     * [ImageJ (ver 1.54p)](https://imagej.net/)
     * [DigiCamControl (ver 2.1.6)](https://www.digicamcontrol.com/download)
 * Vector graphics viewing, creating and editing
@@ -43,7 +43,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [OpenSCAD (ver 2021.01)](https://openscad.org/downloads.html)
     * [FreeCAD (ver 1.0.0)](https://www.freecadweb.org)
 * 3D printing utilities
-    * [PrusaSlicer (ver 2.9.0)](https://www.prusa3d.com/prusaslicer)
+    * [PrusaSlicer (ver 2.9.1)](https://www.prusa3d.com/prusaslicer)
     * [MeshLab (ver 2023.12)](https://www.meshlab.net/#download)
 * EE specific tools
     * [KiCAD (ver 9.0.0)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
