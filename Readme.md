@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 04/10/2025 
+## Rev 04/13/2025 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -47,7 +47,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [MeshLab (ver 2023.12)](https://www.meshlab.net/#download)
 * EE specific tools
     * [KiCAD (ver 9.0.1)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
-    * [LTspice (ver 24.1.6)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
+    * [LTspice (ver 24.1.7)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
     * [Arduino IDE (ver 2.3.6)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.83)](https://www.putty.org) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.4)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
