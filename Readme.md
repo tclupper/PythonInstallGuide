@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 05/13/2025 
+## Rev 05/15/2025 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -13,7 +13,7 @@ You will need the following 4 software titles. I recommend installing them in th
 1) [Notepad++ (ver 8.8.1)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.49.0](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 25.3.0-3)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.100.1)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.100.2)](VScode.md)  (This is the development IDE that I use)
 
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
@@ -30,7 +30,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * Sound recorder/editor
     * [Audacity (ver 3.7.3)](https://www.audacityteam.org)
 * Image viewing, creating and editing
-    * [IRfanView (ver 4.7.0)](https://www.irfanview.com)
+    * [IRfanView (ver 4.7.2)](https://www.irfanview.com)
     * [Paint.net (ver 5.1.7)](https://www.getpaint.net)
     * [ImageJ (ver 1.54p)](https://imagej.net/)
     * [DigiCamControl (ver 2.1.6)](https://www.digicamcontrol.com/download)
