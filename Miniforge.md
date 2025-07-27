@@ -1,7 +1,7 @@
 # The following walks you through the steps to install Miniforge
  * This is a trimmed down version of [Anaconda](https://anaconda.org/) without the user interface.  I used [Miniconda](https://docs.conda.io/en/latest/miniconda.html) at first, but found that the packages in the repository were older.  Minforge uses the [Conda-Forge](https://conda-forge.org/) repository.
 
-1) [Download Miniforge](https://github.com/conda-forge/miniforge)
+1) [Download Miniforge](https://conda-forge.org/download/)
 
 ![](/images/MiniforgeInstall_A.png)
 
