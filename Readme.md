@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 07/27/2025 
+## Rev 08/03/2025 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -12,13 +12,13 @@ You will need the following 4 software titles. I recommend installing them in th
 
 1) [Notepad++ (ver 8.8.3)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.50.1](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
-3) [Miniforge3 (ver 25.3.0-3)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.102.2)](VScode.md)  (This is the development IDE that I use)
+3) [Miniforge3 (ver 25.3.1-0)](Miniforge.md)  (Stripped down version of Anaconda)
+4) [VScode (ver 1.102.3)](VScode.md)  (This is the development IDE that I use)
 
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
 ## Just as an FYI, Here is a list of other free software that I recommend
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.9)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.10)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
 
@@ -31,7 +31,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [Audacity (ver 3.7.4)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.7.2)](https://www.irfanview.com)
-    * [Paint.net (ver 5.1.8)](https://www.getpaint.net)
+    * [Paint.net (ver 5.1.9)](https://www.getpaint.net)
     * [ImageJ (ver 1.54p)](https://imagej.net/)
     * [DigiCamControl (ver 2.1.7)](https://www.digicamcontrol.com/download)
 * Vector graphics viewing, creating and editing
@@ -49,12 +49,12 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [KiCAD (ver 9.0.3)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
     * [LTspice (ver 24.1.9)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
     * [Arduino IDE (ver 2.3.6)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
-    * [Putty (ver 0.83)](https://www.putty.org) ~Communication tool
+    * [Putty (ver 0.83)](https://www.chiark.greenend.org.uk/~sgtatham/putty/) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.4)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20250718)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20250801)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 2.8.4)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
     * [Free 42 (ver 3.3.8b)](https://thomasokken.com/free42/) ~HP42S calculator app
     * [Convert (ver 4.1.0e)](https://joshmadison.com/convert-for-windows/) ~Unit conversion app
-    * [7-Zip (Ver 25.00)](https://www.7-zip.org/) ~File Compression
+    * [7-Zip (Ver 25.01)](https://www.7-zip.org/) ~File Compression
