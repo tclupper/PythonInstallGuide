@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 09/14/2025 
+## Rev 09/21/2025 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -18,7 +18,7 @@ You will need the following 4 software titles. I recommend installing them in th
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
 ## Just as an FYI, Here is a list of other free software that I recommend
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.14)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.15)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
 
@@ -40,11 +40,11 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.1.2)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
-    * [OpenSCAD (ver 2025.09.13)](https://openscad.org/downloads.html)
+    * [OpenSCAD (ver 2025.09.20)](https://openscad.org/downloads.html)
     * [FreeCAD (ver 1.0.2)](https://www.freecadweb.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.9.3)](https://www.prusa3d.com/prusaslicer)
-    * [MeshLab (ver 2023.12)](https://www.meshlab.net/#download)
+    * [MeshLab (ver 2025.07)](https://www.meshlab.net/#download)
 * EE specific tools
     * [KiCAD (ver 9.0.4)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
     * [LTspice (ver 24.1.10)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
