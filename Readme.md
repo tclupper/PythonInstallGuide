@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 11/02/2025 
+## Rev 11/11/2025 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -18,7 +18,7 @@ You will need the following 4 software titles. I recommend installing them in th
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
 ## Just as an FYI, Here is a list of other free software that I recommend
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.19)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.20)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
 
@@ -31,7 +31,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [Audacity (ver 3.7.5)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.7.2)](https://www.irfanview.com)
-    * [Paint.net (ver 5.1.9)](https://www.getpaint.net)
+    * [Paint.net (ver 5.1.11)](https://www.getpaint.net)
     * [ImageJ (ver 1.54r)](https://imagej.net/)
     * [DigiCamControl (ver 2.1.7)](https://www.digicamcontrol.com/download)
 * Vector graphics viewing, creating and editing
@@ -40,10 +40,10 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.1.2)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
-    * [OpenSCAD (ver 2025.11.01)](https://openscad.org/downloads.html)
+    * [OpenSCAD (ver 2025.11.10)](https://openscad.org/downloads.html)
     * [FreeCAD (ver 1.0.2)](https://www.freecadweb.org)
 * 3D printing utilities
-    * [PrusaSlicer (ver 2.9.3)](https://www.prusa3d.com/prusaslicer)
+    * [PrusaSlicer (ver 2.9.4)](https://www.prusa3d.com/prusaslicer)
     * [MeshLab (ver 2025.07)](https://www.meshlab.net/#download)
 * EE specific tools
     * [KiCAD (ver 9.0.6)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
@@ -51,7 +51,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [Arduino IDE (ver 2.3.6)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.83)](https://putty.software/) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.4)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20251031)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20251108)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 2.9.0)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
