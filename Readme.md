@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 1/16/2026 
+## Rev 1/18/2026 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -40,7 +40,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.1.3)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
-    * [OpenSCAD (ver 2026.01.16)](https://openscad.org/downloads.html)
+    * [OpenSCAD (ver 2026.01.18)](https://openscad.org/downloads.html)
     * [FreeCAD (ver 1.0.2)](https://www.freecad.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.9.4)](https://www.prusa3d.com/prusaslicer)
