@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 1/18/2026 
+## Rev 1/22/2026 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -10,15 +10,15 @@ This is a step-by-step guide to install software on your computer for the develo
 
 You will need the following 4 software titles. I recommend installing them in the following order:
 
-1) [Notepad++ (ver 8.9.0)](NotepadPlusPlus.md) (This is the text editor that I use)
+1) [Notepad++ (ver 8.9)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.52.0)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 25.11.0-1)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.108.1)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.108.2)](VScode.md)  (This is the development IDE that I use)
 
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
 ## Just as an FYI, Here is a list of other free software that I recommend
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.24)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.25)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
 
@@ -26,7 +26,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * Latex document editor
     * [Texworks/MikTex (ver 0.6.10/ver 25.12)](https://miktex.org/download)
 * Reference material manager
-    * [Zotero (ver 7.0.32)](https://www.zotero.org/download/)
+    * [Zotero (ver 8.0)](https://www.zotero.org/download/)
 * Sound recorder/editor
     * [Audacity (ver 3.7.7)](https://www.audacityteam.org)
 * Image viewing, creating and editing
@@ -40,7 +40,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.1.3)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
-    * [OpenSCAD (ver 2026.01.18)](https://openscad.org/downloads.html)
+    * [OpenSCAD (ver 2026.01.19)](https://openscad.org/downloads.html)
     * [FreeCAD (ver 1.0.2)](https://www.freecad.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.9.4)](https://www.prusa3d.com/prusaslicer)
