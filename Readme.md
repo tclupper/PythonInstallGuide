@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 1/28/2026 
+## Rev 2/1/2026 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -36,11 +36,11 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [DigiCamControl (ver 2.1.7)](https://www.digicamcontrol.com/download)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.4.3)](https://inkscape.org)
-    * [DrawIO Desktop (ver 29.3.0)](https://github.com/jgraph/drawio-desktop/releases)
+    * [DrawIO Desktop (ver 29.3.6)](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.1.3)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
-    * [OpenSCAD (ver 2026.01.27)](https://openscad.org/downloads.html)
+    * [OpenSCAD (ver 2026.02.01)](https://openscad.org/downloads.html)
     * [FreeCAD (ver 1.0.2)](https://www.freecad.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.9.4)](https://www.prusa3d.com/prusaslicer)
@@ -51,7 +51,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [Arduino IDE (ver 2.3.7)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.83)](https://putty.software/) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.4)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20260123)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20260130)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 3.0.1)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
