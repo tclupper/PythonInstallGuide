@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 2/1/2026 
+## Rev 2/12/2026 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -11,22 +11,22 @@ This is a step-by-step guide to install software on your computer for the develo
 You will need the following 4 software titles. I recommend installing them in the following order:
 
 1) [Notepad++ (ver 8.9.1)](NotepadPlusPlus.md) (This is the text editor that I use)
-2) [Git (ver 2.52.0)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
-3) [Miniforge3 (ver 25.11.0-1)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.108.2)](VScode.md)  (This is the development IDE that I use)
+2) [Git (ver 2.53.0)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
+3) [Miniforge3 (ver 26.1.0-0)](Miniforge.md)  (Stripped down version of Anaconda)
+4) [VScode (ver 1.109.3)](VScode.md)  (This is the development IDE that I use)
 
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
 ## Just as an FYI, Here is a list of other free software that I recommend
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.25)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.26)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
 
-    * [Libre Office (ver 25.8.4)](https://www.libreoffice.org)
+    * [Libre Office (ver 26.2.0)](https://www.libreoffice.org)
 * Latex document editor
     * [Texworks/MikTex (ver 0.6.10/ver 25.12)](https://miktex.org/download)
 * Reference material manager
-    * [Zotero (ver 8.0.1)](https://www.zotero.org/download/)
+    * [Zotero (ver 8.0.3)](https://www.zotero.org/download/)
 * Sound recorder/editor
     * [Audacity (ver 3.7.7)](https://www.audacityteam.org)
 * Image viewing, creating and editing
@@ -51,11 +51,11 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [Arduino IDE (ver 2.3.7)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.83)](https://putty.software/) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.4)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20260130)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20260206)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 3.0.1)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
     * [Free 42 (ver 3.3.11)](https://thomasokken.com/free42/) ~HP42S calculator app
     * [Convert (ver 4.1.0e)](https://joshmadison.com/convert-for-windows/) ~Unit conversion app
-    * [7-Zip (Ver 25.01)](https://www.7-zip.org/) ~File Compression
+    * [7-Zip (Ver 26.00)](https://www.7-zip.org/) ~File Compression
     * [ShareX (Ver 19.02)](https://getsharex.com/) ~Screen capture
