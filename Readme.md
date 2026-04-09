@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 3/31/2026 
+## Rev 4/9/2026 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -13,7 +13,7 @@ You will need the following 4 software titles. I recommend installing them in th
 1) [Notepad++ (ver 8.9.3)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.53.0)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 26.1.1-3)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.113.0)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.115.0)](VScode.md)  (This is the development IDE that I use)
 
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
@@ -40,7 +40,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.1.4)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
-    * [OpenSCAD (ver 2026.03.28)](https://openscad.org/downloads.html)
+    * [OpenSCAD (ver 2026.04.08)](https://openscad.org/downloads.html)
     * [FreeCAD (ver 1.1.0)](https://www.freecad.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.9.4)](https://www.prusa3d.com/prusaslicer)
@@ -51,7 +51,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [Arduino IDE (ver 2.3.8)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.83)](https://putty.software/) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.4)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20260327)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20260403)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 3.0.1)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
