@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 4/9/2026 
+## Rev 4/12/2026 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -26,7 +26,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * Latex document editor
     * [Texworks/MikTex (ver 0.6.10/ver 25.12)](https://miktex.org/download)
 * Reference material manager
-    * [Zotero (ver 8.0.4)](https://www.zotero.org/download/)
+    * [Zotero (ver 9.0)](https://www.zotero.org/download/)
 * Sound recorder/editor
     * [Audacity (ver 3.7.7)](https://www.audacityteam.org)
 * Image viewing, creating and editing
@@ -51,7 +51,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [Arduino IDE (ver 2.3.8)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.83)](https://putty.software/) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.4)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20260403)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20260410)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 3.0.1)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
