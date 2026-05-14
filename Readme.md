@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 5/12/2026 
+## Rev 5/13/2026 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -13,7 +13,7 @@ You will need the following 4 software titles. I recommend installing them in th
 1) [Notepad++ (ver 8.9.5)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.54.0)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 26.3.2-0)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.119.1)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.120.0)](VScode.md)  (This is the development IDE that I use)
 
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
