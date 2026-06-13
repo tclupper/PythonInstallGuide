@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 6/8/2026 
+## Rev 6/13/2026 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -13,12 +13,12 @@ You will need the following 4 software titles. I recommend installing them in th
 1) [Notepad++ (ver 8.9.6.4)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.54.0)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 26.3.2-3)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.123.0)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.124.2)](VScode.md)  (This is the development IDE that I use)
 
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
 ## Just as an FYI, Here is a list of other free software that I recommend
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.33)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.34)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
 
@@ -26,9 +26,9 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * Latex document editor
     * [Texworks/MikTex (ver 0.6.10/ver 25.12)](https://miktex.org/download)
 * Reference material manager
-    * [Zotero (ver 9.0.4)](https://www.zotero.org/download/)
+    * [Zotero (ver 9.0.5)](https://www.zotero.org/download/)
 * Sound recorder/editor
-    * [Audacity (ver 3.7.7)](https://www.audacityteam.org)
+    * [Audacity (ver 3.7.8)](https://www.audacityteam.org)
 * Image viewing, creating and editing
     * [IRfanView (ver 4.7.5)](https://www.irfanview.com)
     * [Paint.net (ver 5.1.12)](https://www.getpaint.net)
@@ -40,7 +40,7 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.1.5)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
-    * [OpenSCAD (ver 2026.06.07)](https://openscad.org/downloads.html)
+    * [OpenSCAD (ver 2026.06.12)](https://openscad.org/downloads.html)
     * [FreeCAD (ver 1.1.1)](https://www.freecad.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.9.5)](https://www.prusa3d.com/prusaslicer)
@@ -48,10 +48,11 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
 * EE specific tools
     * [KiCAD (ver 10.0.3)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
     * [LTspice (ver 26.0.2)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
-    * [Arduino IDE (ver 2.3.9)](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
+    * [Arduino IDE (ver 2.3.10
+    )](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
     * [Putty (ver 0.84)](https://putty.software/) ~Communication tool
     * [EZNEC Pro/2+ (ver 7.0.4)](https://www.eznec.com/) ~Wire antenna simulation. Final version.
-    * [Chirp-next (ver 20260605)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
+    * [Chirp-next (ver 20260612)](https://chirp.danplanet.com/projects/chirp/wiki/Download) ~HAM radio programming software
     * [AADE filter design (ver 4.5)](http://www.ke5fx.com/aadeflt.htm) ~Lumped element filter design. Final version.
     * [METAS VNA tools (ver 3.0.1)](https://www.metas.ch/metas/en/home/fabe/hochfrequenz/vna-tools.html)~Nice set of S-parameter display and calibration uncertainty tools if you use a vector network analyzer
 * Utilities
