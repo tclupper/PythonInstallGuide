@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 7/10/2026 
+## Rev 7/15/2026 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -10,15 +10,15 @@ This is a step-by-step guide to install software on your computer for the develo
 
 You will need the following 4 software titles. I recommend installing them in the following order:
 
-1) [Notepad++ (ver 8.9.6.4)](NotepadPlusPlus.md) (This is the text editor that I use)
+1) [Notepad++ (ver 8.9.7)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.55.0)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 26.3.2-3)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.128.0)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.129.0)](VScode.md)  (This is the development IDE that I use)
 
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
 ## Just as an FYI, Here is a list of other free software that I recommend
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.35)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.36)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
 
@@ -36,11 +36,11 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [DigiCamControl (ver 2.1.7)](https://www.digicamcontrol.com/download)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.4.4)](https://inkscape.org)
-    * [DrawIO Desktop (ver 30.3.6)](https://github.com/jgraph/drawio-desktop/releases)
+    * [DrawIO Desktop (ver 30.3.11)](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.1.5)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
-    * [OpenSCAD (ver 2026.07.04)](https://openscad.org/downloads.html)
+    * [OpenSCAD (ver 2026.07.13)](https://openscad.org/downloads.html)
     * [FreeCAD (ver 1.1.1)](https://www.freecad.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.9.6)](https://www.prusa3d.com/prusaslicer)
