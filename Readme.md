@@ -1,6 +1,6 @@
 # Installation instructions for a Python environment on a Microsoft Windows-based computer
 
-## Rev 7/15/2026 
+## Rev 7/26/2026 
 <br>
 
 ### NOTE: The official URL for this guide is:  https://github.com/tclupper/PythonInstallGuide 
@@ -13,16 +13,16 @@ You will need the following 4 software titles. I recommend installing them in th
 1) [Notepad++ (ver 8.9.7)](NotepadPlusPlus.md) (This is the text editor that I use)
 2) [Git (ver 2.55.0)](Git.md)  (This is used for version control of text based files, i.e. source code, jupyter notebooks, static files, etc.)
 3) [Miniforge3 (ver 26.3.2-3)](Miniforge.md)  (Stripped down version of Anaconda)
-4) [VScode (ver 1.129.0)](VScode.md)  (This is the development IDE that I use)
+4) [VScode (ver 1.130.0)](VScode.md)  (This is the development IDE that I use)
 
 NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Miniforge distribution).  However, with the proper extensions installed, you can use VScode to edit Jupyter notebooks, Latex documents, CSS/HTML/Flask apps, as well as Python programs that use tkinter UI.
 
 ## Just as an FYI, Here is a list of other free software that I recommend
-* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.36)](https://visualstudio.microsoft.com/vs/community)
+* For Visual Basic and C# applications, I use [Visual Studio Community 2022 (ver 17.14.37)](https://visualstudio.microsoft.com/vs/community)
 
 * Office suite
 
-    * [Libre Office (ver 26.2.4)](https://www.libreoffice.org)
+    * [Libre Office (ver 26.2.5)](https://www.libreoffice.org)
 * Latex document editor
     * [Texworks/MikTex (ver 0.6.10/ver 25.12)](https://miktex.org/download)
 * Reference material manager
@@ -36,17 +36,17 @@ NOTE: Jupyter notebooks are best edited using JupyterLab (installed via the Mini
     * [DigiCamControl (ver 2.1.7)](https://www.digicamcontrol.com/download)
 * Vector graphics viewing, creating and editing
     * [Inkscape (ver 1.4.4)](https://inkscape.org)
-    * [DrawIO Desktop (ver 30.3.11)](https://github.com/jgraph/drawio-desktop/releases)
+    * [DrawIO Desktop (ver 31.0.2)](https://github.com/jgraph/drawio-desktop/releases)
 * 2D mechanical drawing
     * [LibreCAD (ver 2.2.1.5)](https://github.com/LibreCAD/LibreCAD/releases)
 * 3D mechanical drawing and modeling
-    * [OpenSCAD (ver 2026.07.13)](https://openscad.org/downloads.html)
-    * [FreeCAD (ver 1.1.1)](https://www.freecad.org)
+    * [OpenSCAD (ver 2026.07.24)](https://openscad.org/downloads.html)
+    * [FreeCAD (ver 1.1.3)](https://www.freecad.org)
 * 3D printing utilities
     * [PrusaSlicer (ver 2.9.6)](https://www.prusa3d.com/prusaslicer)
     * [MeshLab (ver 2025.07)](https://www.meshlab.net/#download)
 * EE specific tools
-    * [KiCAD (ver 10.0.4)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
+    * [KiCAD (ver 10.0.5)](https://kicad.org/download/windows/) ~Schematic capture and PCB layout
     * [LTspice (ver 26.0.2)](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html) ~Circuit simulation
     * [Arduino IDE (ver 2.3.10
     )](https://www.arduino.cc/en/software) ~IDE for Arduino control boards
